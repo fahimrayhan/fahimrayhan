@@ -1,7 +1,7 @@
 
 .parallax1 {
     /* The image used */
-    background-image: url('/Web/Images/pexels-neo-2653362.jpg');
+    background-image: url('Images/pexels-neo-2653362.jpg');
   
     /* Set a specific height */
     
@@ -17,7 +17,7 @@
   
 .parallax2 {
     /* The image used */
-    background-image: url('/Web/Images/pexels-alex-andrews-821754.jpg');
+    background-image: url('Images/pexels-alex-andrews-821754.jpg');
   
     /* Set a specific height */
     
@@ -30,22 +30,16 @@
     background-size: cover;
 
   }
-
+/* 
   .caption{
     position: absolute;
     left: 0;
     top: 50%;
     width: 100%;
     text-align: center;
-}
+} */
 
-  .caption span.border{
-      background-color: #07080c;
-      color: #ffffff;
-      padding: 18px;
-      font-size: 25px;
-      letter-spacing: 10px;
-  }
+
 
  .ab-section{
     display: flex;
@@ -109,3 +103,66 @@
 .hk-icon:hover{
     color:#167638;
 }
+
+.git{
+    color: #25292f;
+}
+
+.quora{
+    color: #b42a26;
+}
+.stack{
+    color:#e77d1a;
+}
+.git:hover{
+    color: #25292f;
+}
+
+.quora:hover{
+    color: #671816;
+}
+.stack:hover{
+    color:#532c09;
+}
+
+
+/* Text Animation */
+
+.auto_text {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  @import url('https://fonts.googleapis.com/css?family=Montserrat');
+  .auto_text p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    padding: 0.5rem;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+    text-align: center;
+    overflow: hidden;
+  }
+  .auto_text p span.typed-text {
+    font-weight: normal;
+    color: #dd7732;
+  }
+  .auto_text p span.cursor {
+    display: inline-block;
+    background-color: #ccc;
+    margin-left: 0.1rem;
+    width: 3px;
+    animation: blink 1s infinite;
+  }
+  .auto_text p span.cursor.typing {
+    animation: none;
+  }
+  @keyframes blink {
+    0%  { background-color: #ccc; }
+    49% { background-color: #ccc; }
+    50% { background-color: transparent; }
+    99% { background-color: transparent; }
+    100%  { background-color: #ccc; }
+  }
