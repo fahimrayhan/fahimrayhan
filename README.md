@@ -1,6 +1,6 @@
 ### Hi there, I'm Fahim Rayhan - 👋
 
-## I'm a Student, Tech Enthusiast, and Developer!!
+## I'm a Student, Tech Enthusiast, and Entrepreneur!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
