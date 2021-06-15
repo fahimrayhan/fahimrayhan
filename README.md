@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn Android App Development
+- 🥅 2021 Goals: Become FullStack Developer
 - ⚡ Fun fact: I love to plant trees
 
 
