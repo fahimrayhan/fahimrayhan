@@ -3,7 +3,7 @@
 ## I'm a Student, Tech Enthusiast, and Entrepreneur!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other content creators / developers
 - 🥅 2021 Goals: Becoming a FullStack Developer
 - ⚡ Fun fact: I love to plant trees
 
@@ -40,7 +40,7 @@
 
 
 [website]: https://getsview.com/
-[twitter]: https://twitter.com/FahimKhandkar
+[twitter]: https://twitter.com/FahimRayhan_
 [youtube]: https://www.youtube.com/channel/UCmy0Ao6_nbEFc6Qlz1-d2xg
 [hackerrank]: https://www.hackerrank.com/fahim_rayhan
 [linkedin]: https://www.linkedin.com/in/fahim-rayhan
