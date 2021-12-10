@@ -46,4 +46,4 @@
 [linkedin]: https://www.linkedin.com/in/fahim-rayhan
 [stackoverflow]: https://stackoverflow.com/users/12174906/fahim-rayhan
 [quora]: https://bn.quora.com/profile/Fahim-Rayhan
-[facebook]: https://www.facebook.com/fahim.rayhan.official
+[facebook]: https://www.facebook.com/fahim.rayhan.k/
