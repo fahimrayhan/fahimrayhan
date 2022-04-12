@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators / developers
-- 🥅 2022 Goals: Learning About Data Engineering & Visualization
+- 🥅 2022 Goals: Learning About Data Science
 - 📖 I am currently reading The Google Resume by Gayle Laakmann McDowell
-- 💻 I use daily .java, .js, .sql
+- 💻 I use daily .java, .js, .sql .cpp
 - ⚡ Fun fact: I love to explore new places but I don't have time 
 
 
