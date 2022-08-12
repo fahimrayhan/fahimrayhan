@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators / developers
 - 🥅 2022 Goals: Learning About Data Science
-- 📖 I am currently reading The Google Resume by Gayle Laakmann McDowell
-- 💻 I use daily .java, .js, .sql .cpp
+- 📖 I am currently reading - The 4-Hour Workweek, and Start Where You Are
+- 💻 I use daily .js, .py, .sql .cpp, and .java
 - ⚡ Fun fact: I love to explore new places but I don't have time 
 
 
