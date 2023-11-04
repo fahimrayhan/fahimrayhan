@@ -32,6 +32,7 @@
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=fahimrayhan&include_all_commits=true&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 </p>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/fahimrayhan786.png" alt="TryHackMe">
 <hr>
 
 <h3 align="left">Connect with me:</h3>
