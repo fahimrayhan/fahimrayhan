@@ -7,7 +7,7 @@
 - 🥅 2023 Goals: Learn DATA MINING + BIG DATA ANALYSIS
 - 📖 I am currently reading - The 4-Hour Workweek, and Start Where You Are
 - 💻 I use daily .js, .py, .sql .cpp, and .java
-- ⚡ Fun fact: I love to explore new places but I don't have time 
+- ⚡ Fun fact: I love to explore new places but I don't have time 😫
 
 
 
