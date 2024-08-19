@@ -31,8 +31,6 @@
   <br>
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=fahimrayhan&include_all_commits=true&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 </p>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/fahimrayhan786.png" alt="TryHackMe">
 <hr>
 
 
@@ -120,6 +118,17 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fahimrayhan" height="30" width="40" />
     </a>
 </p>
+
+<hr/>
+<h3 align="left">📕 My Badges</h3>
+  <a href="https://www.credly.com/badges/016df2c9-b049-4b73-8023-5a32223237e4/public_url" target="_blank" rel="noreferrer">
+        <img src="https://images.credly.com/size/680x680/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" alt="javascript" width="120" height="120" />
+  </a>
+  <a href="https://www.credly.com/badges/1a445554-2d92-4653-bd1d-7a4f164b9286/public_url" target="_blank" rel="noreferrer">
+        <img src="https://images.credly.com/size/680x680/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png" alt="javascript" width="120" height="120" />
+  </a>
+
+  <img src="https://tryhackme-badges.s3.amazonaws.com/fahimrayhan786.png" alt="TryHackMe">
 
 <br />
 <br />
