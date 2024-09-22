@@ -11,24 +11,19 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<!-- <p align="center"> -->
+<div>
+   <a href="https://github.com/fahimrayhan/github-readme-streak-stats" title="Go to Source">
+      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=fahimrayhan&theme=react&border=61dafb&hide_border=true" alt="Fahim Rayhan" />
+    </a>
+   
+   <a href="https://github.com/fahimrayhan/github-readme-stats">
+      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimrayhan&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+</div>
+
    <a href="https://github.com/fahimrayhan/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=fahimrayhan&show_icons=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true" />
+      <img  src="https://github-readme-stats.vercel.app/api?username=fahimrayhan&show_icons=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true" />
     </a>
-<!--   <div align="center"> -->
-    <a href="https://github.com/fahimrayhan/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=fahimrayhan&theme=react&border=61dafb&hide_border=true" alt="Fahim Rayhan" />
-    </a>
-<!--   </div> -->
-<!--   <br><br><br><br><br><br><br><br><br> -->
-<!--   <div align="center"> -->
-    <a href="https://github.com/fahimrayhan/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimrayhan&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-<!--   </div> -->
-  <br>
-<!--   <img src="https://activity-graph.herokuapp.com/graph?username=fahimrayhan&include_all_commits=true&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
-<!-- </p> -->
 <hr>
 
 
