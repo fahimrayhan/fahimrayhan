@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators/developers
-- 🥅 2024 Goals: Work on Data Visualization, AI/ML Model Creations, Research, and Backend Development </>
+- 🥅 2025 Goals: Work on Data Visualization, AI/ML Model Creations, Research, and Backend Development </>
 - 📖 I am currently reading - The 4-Hour Workweek, and Start Where You Are
 - 💻 I use daily .js, .py, .sql .cpp, and .java
 - ⚡ Fun fact: I love to explore new places but I don't have time 😫
