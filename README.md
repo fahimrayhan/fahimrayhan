@@ -1,13 +1,31 @@
-### Hi there, I'm Fahim Rayhan - 👋
+### Hey there, I'm Fahim Rayhan 👋  
+#### 💻 Full-Stack Developer | Data Engineer | Tech Explorer | Entrepreneur  
 
-## I'm a Student, Tech Enthusiast, and Entrepreneur!!
+I’m passionate about building **scalable web platforms**, crafting **data-driven solutions**, and exploring how **technology meets creativity**.  
+When I’m not coding, you’ll find me learning, reading, or planning my next adventure 🌍  
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators/developers
-- 🥅 2025 Goals: Work on Data Visualization, AI/ML Model Creations, Research, and Backend Development </>
-- 📖 I am currently reading - The 4-Hour Workweek, and Start Where You Are
-- 💻 I use daily .js, .py, .sql .cpp, and .java
-- ⚡ Fun fact: I love to explore new places but I don't have time 😫
+---
+
+### 🚀 About Me  
+- 🌱 Always learning — from Next.js to machine learning to random rabbit holes 🤓  
+- 👯 Looking to collaborate on exciting web apps, data projects, and startup ideas  
+- 🥅 **2025 Goals:** Dive deep into Data Visualization, AI/ML Model Building, Research, and Backend Architecture  
+- 📖 Currently reading: *The 4-Hour Workweek* & *Start Where You Are*  
+- 💻 I code daily in: `.js`, `.py`, `.sql`, `.cpp`, `.java`  
+- ⚡ **Fun fact:** I love exploring new places — just wish debugging counted as traveling 😅  
+
+---
+
+### 🧠 Tech Stack & Tools  
+**Frontend:** Next.js, React, TailwindCSS  
+**Backend:** Node.js, NestJS, Strapi, Express  
+**Database:** MySQL, MongoDB  
+**Other:** Python, Data Science, Git, REST APIs  
+
+---
+
+✨ *“Code. Learn. Build. Repeat.”*  
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
