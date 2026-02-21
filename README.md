@@ -24,7 +24,7 @@ When I’m not coding, you’ll find me learning, reading, or planning my next a
 
 ---
 
-✨ *“Code. Learn. Build. Repeat.”*  
+✨ *“Learn. Code. Build. Repeat.”*  
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
