@@ -9,9 +9,9 @@ When I’m not coding, you’ll find me learning, reading, or planning my next a
 ### 🚀 About Me  
 - 🌱 Always learning — from Next.js to machine learning to random rabbit holes 🤓  
 - 👯 Looking to collaborate on exciting web apps, data projects, and startup ideas  
-- 🥅 **2026 Goals:** Hack NASA 😂 with AI
+- 🥅 **2026 Goals:** Hack NASA 😂 with AI (Learning VLA/VLM and AI-driven robotics)
 - 📖 Currently reading: *Four Thousand Weeks* & *The Comfort Crisis*  
-- 💻 I code daily in: `.js`, `.py`, `.sql`, `.cpp`, `.java`  
+- 💻 I code daily in: `.py`, `.js`, `.cpp`, `.c`, `.java`, `.sql`, `.m` 
 - ⚡ **Fun fact:** I love exploring new places — just wish debugging counted as traveling 😅  
 
 ---
@@ -20,7 +20,7 @@ When I’m not coding, you’ll find me learning, reading, or planning my next a
 **Frontend:** Next.js, React, TailwindCSS  
 **Backend:** Node.js, NestJS, Strapi, Express  
 **Database:** MySQL, Postgress, MongoDB, Radis
-**ML:** Pytorch, 
+**ML:** Pytorch
 **Cloud:** AWS, NAISS, Docker
 **Other:** Burpsuite...
 
